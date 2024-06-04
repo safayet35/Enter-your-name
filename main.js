@@ -1,4 +1,4 @@
-let gali = ["Khan kir polaa", "Tor mayre chudi", "Chodaanir pola", "La aund", "Lau raa", "Madar chood", "Khan kii ma girji", "Ma gii", "L Chira haat a dii yeaa di  muu","Bhosdi ke","Mat ke maifa sa hua la aund", "Chu tiya "]
+let gali = ["Khan kir polaa", "Tor mayre chudi", "Chodaanir pola", "La aund", "Lau raa", "Madar chood", "Khan kii ma girji", "Ma gii", "L Chira haat a dii yeaa di  muu","Bhosdi ke","Mat ke maifa sa hua la aund", "Chu tiya"]
 
 const synth = window.speechSynthesis;
 const voiceSelect = document.getElementById('voice-select');
